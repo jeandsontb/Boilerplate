@@ -1,7 +1,6 @@
 import Head from 'next/head';
 
 export default function Home() {
-  // const varr = 'var';
   return (
     <div>
       <Head>
