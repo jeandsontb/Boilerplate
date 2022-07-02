@@ -25,6 +25,7 @@ As seguintes ferramentas foram usadas na construção deste boilerplate:
 - [Styled-Components][styled]
 - [Storybook][storybook]
 - [PWA][pwa]
+- [PLOP][plop]
 - [Vscode][vscode]
 
 ## 💡 Como executar o projeto
@@ -67,4 +68,5 @@ Feito por Jeandson Tenorio 👋🏽 [Entre em contato!](https://www.linkedin.com
 [styled]: https://styled-components.com/
 [storybook]: https://storybook.js.org/
 [pwa]: https://www.npmjs.com/package/next-pwa
+[plop]: https://plopjs.com/
 [vscode]: https://code.visualstudio.com/
