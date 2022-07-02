@@ -21,7 +21,6 @@ As seguintes ferramentas foram usadas na construção deste boilerplate:
 - [HUSKY][husky]
 - [JEST][jest]
 - [Testing-Library][library]
-- [HUSKY][husky]
 - [Styled-Components][styled]
 - [Storybook][storybook]
 - [PWA][pwa]
