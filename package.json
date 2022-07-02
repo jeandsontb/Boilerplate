@@ -13,12 +13,13 @@
     "generate": "yarn plop --plopfile generators/plopfile.js",
     "prepare": "husky install",
     "storybook": "start-storybook -s ./public -p 6006",
-    "build-storybook": "build-storybook",
+    "build-storybook": "build-storybook -s ./public",
     "postinstall": "husky install"
   },
   "lint-staged": {
     "src/**/*": [
-      "yarn lint --fix"
+      "yarn lint --fix",
+      "yarn test --findRelatedTests --bail"
     ]
   },
   "dependencies": {
