@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+public/sw.js
+public/workbox-*.js
+
+# storybook
+storybook-static
+
 # testing
 /coverage
 
