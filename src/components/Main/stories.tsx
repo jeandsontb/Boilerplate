@@ -9,5 +9,4 @@ export default {
   }
 } as Meta;
 
-//teste
 export const Basic: Story = (args) => <Main {...args} />;

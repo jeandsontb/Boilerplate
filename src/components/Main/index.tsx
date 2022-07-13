@@ -5,7 +5,6 @@ const Main = ({
   description = 'TypeScript, React JS, Next.JS, Styled Components'
 }) => {
   return (
-    //scrapper test
     <S.Wrapper>
       <S.Logo src="/img/logo.svg" alt="Imagem átomo - React Avançado" />
       <S.Title>{title}</S.Title>
